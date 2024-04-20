@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "fill": "#E0E0E0",
+                "name": "0/0",
+                "stroke": "none",
+                "type": "metabolite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100,
+                    -100
+                ]
+            },
+            "properties": {
+                "fill": "#E0E0E0",
+                "name": "-100/-100",
+                "stroke": "none",
+                "type": "metabolite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100,
+                    100
+                ]
+            },
+            "properties": {
+                "fill": "#E0E0E0",
+                "name": "100/100",
+                "stroke": "none",
+                "type": "metabolite"
+            }
+        },
+        
+      
+      {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -100,
+                        -100
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        100,
+                        100
+                    ]
+                ]
+            },
+            "properties": {
+                "fill": "none",
+                "name": "R00008",
+                "stroke": "#B3B3E6",
+                "type": "path"
+            }
+        },
+  ]
+}
