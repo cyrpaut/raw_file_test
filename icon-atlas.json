@@ -1,9 +1,9 @@
 {
   "arrow": {
     "x": 0,
-    "y": 13,
+    "y": 0,
     "width": 57,
-    "height": 27,
+    "height": 40,
     "anchorY": 40,
     "mask": true
   },
